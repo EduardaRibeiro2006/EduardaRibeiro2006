@@ -1,0 +1,25 @@
+div{
+    border-left: 3px gray solid;
+    border-bottom: 6px darkgray double;
+    width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: center;
+}
+h1,h3{
+    text-align: center;
+}
+body{
+    background-color: lightcoral;
+
+}
+.fbranco{
+    background-color: white;
+}
+#fverde{
+    background-color: green;
+}
+.flilas{
+    background-color: blueviolet;
+
+}
